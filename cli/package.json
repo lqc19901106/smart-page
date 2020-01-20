@@ -1,0 +1,22 @@
+{
+  "name": "@puzzle/cli",
+  "version": "0.0.1",
+  "description": "前端项目模板相关的命令行工具",
+  "main": "./bin/index.js",
+  "bin": {
+    "puzzle": "./bin/cli.js"
+  },
+  "keywords": [
+    "puzzle",
+    "cli"
+  ],
+  "author": "liuqichao",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.0",
+    "inquirer": "^7.0.3",
+    "ora": "^4.0.3",
+    "semver": "^7.1.1"
+  }
+}

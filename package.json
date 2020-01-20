@@ -1,0 +1,29 @@
+{
+  "name": "puzzle-temp",
+  "version": "0.0.1",
+  "description": "webapp || compoent || multi app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lqc19901106/puzzle-temp.git"
+  },
+  "keywords": [
+    "webpack",
+    "gulp",
+    "babel",
+    "ts",
+    "react"
+  ],
+  "author": "liuqichao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lqc19901106/puzzle-temp/issues"
+  },
+  "homepage": "https://github.com/lqc19901106/puzzle-temp#readme",
+  "devDependencies": {
+    "lerna": "^3.20.1"
+  }
+}
