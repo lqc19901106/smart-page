@@ -1,12 +1,28 @@
 {
-    "name": "webapp",
-    "version": "0.0.1",
-    "description": "项目模板",
-    "main": "index.js",
-    "scripts": {
-      "test": "test"
-    },
-    "author": "liuqichao",
-    "license": "MIT"
+  "name": "@puzzle/webapp",
+  "version": "0.0.1",
+  "description": "项目模板",
+  "keywords": [
+    "backbone",
+    "jquery",
+    "underscore"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "liuqichao",
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "jquery": "^3.4.1",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-nodeunit": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.1"
   }
-  
+}

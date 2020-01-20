@@ -1,7 +1,7 @@
 {
   "name": "puzzle-temp",
   "version": "0.0.1",
-  "description": "webapp || compoent || multi app",
+  "description": "webapp || component || multi ",
   "main": "index.js",
   "scripts": {
     "test": "test"

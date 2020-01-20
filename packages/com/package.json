@@ -1,7 +1,7 @@
 {
-  "name": "js-component",
+  "name": "@puzzle/component",
   "version": "0.0.1",
-  "description": "js组件模板",
+  "description": "项目组件模板",
   "main": "index.js",
   "scripts": {
     "test": "test"
